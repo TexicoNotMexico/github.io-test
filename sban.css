@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+p {
+    font-family: 'Noto Sans JP Black', sans-serif;
+    font-size: 29px
+}
+.sign {
+    text-align: right;
+    margin-right: 30%;
+}
+span {
+    font-family: 'Noto Sans JP Black', sans-serif;
+    font-size: 37px
+}
