@@ -1,0 +1,123 @@
+body {
+    color: white;
+    text-align: center;
+    animation: shishinkeiYakikireru 0.6s infinite alternate;
+}
+@keyframes shishinkeiYakikireru{
+    0%{background-color: black}
+    1%{background-color: red}
+    2%{background-color: blue}
+    3%{background-color: gray}
+    4%{background-color: green}
+    5%{background-color: purple}
+    6%{background-color: yellow}
+    7%{background-color: lime}
+    8%{background-color: orangered}
+    9%{background-color: white}
+    10%{background-color: black}
+    11%{background-color: red}
+    12%{background-color: blue}
+    13%{background-color: gray}
+    14%{background-color: green}
+    15%{background-color: purple}
+    16%{background-color: yellow}
+    17%{background-color: lime}
+    18%{background-color: orangered}
+    19%{background-color: white}
+    20%{background-color: black}
+    21%{background-color: red}
+    22%{background-color: blue}
+    23%{background-color: gray}
+    24%{background-color: green}
+    25%{background-color: purple}
+    26%{background-color: yellow}
+    27%{background-color: lime}
+    28%{background-color: orangered}
+    29%{background-color: white}
+    30%{background-color: black}
+    31%{background-color: red}
+    32%{background-color: blue}
+    33%{background-color: gray}
+    34%{background-color: green}
+    35%{background-color: purple}
+    36%{background-color: yellow}
+    37%{background-color: lime}
+    38%{background-color: orangered}
+    39%{background-color: white}
+    40%{background-color: black}
+    41%{background-color: red}
+    42%{background-color: blue}
+    43%{background-color: gray}
+    44%{background-color: green}
+    45%{background-color: purple}
+    46%{background-color: yellow}
+    47%{background-color: lime}
+    48%{background-color: orangered}
+    49%{background-color: white}
+    50%{background-color: black}
+    51%{background-color: red}
+    52%{background-color: blue}
+    53%{background-color: gray}
+    54%{background-color: green}
+    55%{background-color: purple}
+    56%{background-color: yellow}
+    57%{background-color: lime}
+    58%{background-color: orangered}
+    59%{background-color: white}
+    60%{background-color: black}
+    61%{background-color: red}
+    62%{background-color: blue}
+    63%{background-color: gray}
+    64%{background-color: green}
+    65%{background-color: purple}
+    66%{background-color: yellow}
+    67%{background-color: lime}
+    68%{background-color: orangered}
+    69%{background-color: white}
+    70%{background-color: black}
+    71%{background-color: red}
+    72%{background-color: blue}
+    73%{background-color: gray}
+    74%{background-color: green}
+    75%{background-color: purple}
+    76%{background-color: yellow}
+    77%{background-color: lime}
+    78%{background-color: orangered}
+    79%{background-color: white}
+    80%{background-color: black}
+    81%{background-color: red}
+    82%{background-color: blue}
+    83%{background-color: gray}
+    84%{background-color: green}
+    85%{background-color: purple}
+    86%{background-color: yellow}
+    87%{background-color: lime}
+    88%{background-color: orangered}
+    89%{background-color: white}
+    90%{background-color: black}
+    91%{background-color: red}
+    92%{background-color: blue}
+    93%{background-color: gray}
+    94%{background-color: green}
+    95%{background-color: purple}
+    96%{background-color: yellow}
+    97%{background-color: lime}
+    98%{background-color: orangered}
+    99%{background-color: white}
+    100%{background-color: deepskyblue}
+}
+.aori {
+    font: 210% 'Noto Sans JP Thin', sans-serif;
+    border: solid 1px white;
+    letter-spacing: 20px;
+    text-align: center;
+    padding: 5%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.aori > span {
+    font-size: 80%;
+}
