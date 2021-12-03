@@ -8,5 +8,5 @@
 
 # 一覧
 - [sban.html](https://texiconotmexico.github.io/github.io-test/sban.html)
-- 
+- [kAiWaInEwSlmaooo.html](https://texiconotmexico.github.io/github.io-test/kAiWaInEwSlmaooo.html)
 - Coming Soon ...?
