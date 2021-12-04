@@ -8,5 +8,5 @@
 
 # 一覧
 - [sban.html](https://texiconotmexico.github.io/github.io-test/sban.html)
-- [kAiWaInEwSlmaooo.html](https://texiconotmexico.github.io/github.io-test/kAiWaInEwSlmaooo.html) （**注：光過敏性発作を起こす体質の方はご覧にならないでください**）
+- [kAiWaInEwSlmaooo.html](https://texiconotmexico.github.io/github.io-test/kAiWaInEwSlmaooo.html) **（注：光過敏性発作を起こす体質の方はご覧にならないでください）**
 - Coming Soon ...?
